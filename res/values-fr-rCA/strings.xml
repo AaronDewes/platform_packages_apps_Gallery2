@@ -20,7 +20,7 @@
     <string name="gadget_title" msgid="259405922673466798">"Cadre d\'image"</string>
     <string name="details_ms" msgid="940634969189855292">"%1$02d:%2$02d"</string>
     <string name="details_hms" msgid="3215779248094151255">"%1$d:%2$02d:%3$02d"</string>
-    <string name="movie_view_label" msgid="3526526872644898229">"Lecteur Google Vidéos"</string>
+    <string name="movie_view_label" msgid="3526526872644898229">"Lecteur Vidéos"</string>
     <string name="loading_video" msgid="4013492720121891585">"Chargement de la vidéo..."</string>
     <string name="loading_image" msgid="1200894415793838191">"Chargement de l\'image..."</string>
     <string name="loading_account" msgid="928195413034552034">"Chargement infos compte..."</string>
